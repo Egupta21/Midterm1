@@ -1,0 +1,307 @@
+.sectorpage .sector1-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector1-mainpagebox .sector1-left{
+    width:  50%;
+    min-height: 55vh;
+    position: relative;
+}
+.sectorpage .sector1-mainpagebox .sector1-left .sector1-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    right: 5%;
+    margin: auto;
+    top: 15%;
+}
+.sectorpage .sector1-mainpagebox .sector1-left .sector1-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector1-mainpagebox .sector1-left .sector1-wordarea .information-sector1 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector1-mainpagebox .sector1-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.sectorpage .sector1-mainpagebox .sector1-right .sector1-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    left: 5px;
+    top: 15%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sectorpage .sector2-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector2-mainpagebox .sector2-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    right: 0;
+}
+.sectorpage .sector2-mainpagebox .sector2-right .sector2-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    left: 5%;
+    margin: auto;
+    top: 10%;
+}
+.sectorpage .sector2-mainpagebox .sector2-right .sector2-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector2-mainpagebox .sector2-right .sector2-wordarea .information-sector2 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector2-mainpagebox .sector2-left{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.sectorpage .sector2-mainpagebox .sector2-left .sector2-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    right: 5px;
+    top: 10%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sectorpage .sector3-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector3-mainpagebox .sector3-left{
+    width: 50%;
+    min-height: 55vh;
+    position: relative;
+}
+.sectorpage .sector3-mainpagebox .sector3-left .sector3-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    right: 5%;
+    margin: auto;
+    top: 6%;
+}
+.sectorpage .sector3-mainpagebox .sector3-left .sector3-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector3-mainpagebox .sector3-left .sector3-wordarea .information-sector3 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector3-mainpagebox .sector3-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.sectorpage .sector3-mainpagebox .sector3-right .sector3-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    left: 5px;
+    top: 6%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sectorpage .sector4-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector4-mainpagebox .sector4-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    right: 0;
+}
+.sectorpage .sector4-mainpagebox .sector4-right .sector4-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    left: 5%;
+    margin: auto;
+    top: 3%;
+}
+.sectorpage .sector4-mainpagebox .sector4-right .sector4-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector4-mainpagebox .sector4-right .sector4-wordarea .information-sector4 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector4-mainpagebox .sector4-left{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.sectorpage .sector4-mainpagebox .sector4-left .sector4-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    right: 5px;
+    top: 3%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sectorpage .sector5-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector5-mainpagebox .sector5-left{
+    width: 50%;
+    min-height: 55vh;
+    position: relative;
+}
+.sectorpage .sector5-mainpagebox .sector5-left .sector5-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    right: 5%;
+    margin: auto;
+    top: -2%;
+}
+.sectorpage .sector5-mainpagebox .sector5-left .sector5-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector5-mainpagebox .sector5-left .sector5-wordarea .information-sector5 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector5-mainpagebox .sector5-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.sectorpage .sector5-mainpagebox .sector5-right .sector5-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    left: 5px;
+    top: -2%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sectorpage .sector6-mainpagebox{
+    min-height: 55vh;
+    width: 100%;
+    position: relative;
+}
+.sectorpage .sector6-mainpagebox .sector6-right{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    right: 0;
+}
+.sectorpage .sector6-mainpagebox .sector6-right .sector6-wordarea{
+    width: 500px;
+    min-height: 40vh;
+    position: absolute;
+    left: 5%;
+    margin: auto;
+    top: -5%;
+}
+.sectorpage .sector6-mainpagebox .sector6-right .sector6-wordarea .header h1{
+    font-size: 3.5rem;
+    padding-bottom: 30px;
+}
+.sectorpage .sector6-mainpagebox .sector6-right .sector6-wordarea .information-sector6 p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 130%;
+    word-spacing: 3px;
+    color: rgb(95, 95, 95);
+    font-family: Poppins;
+    font-weight: 500;
+}
+.sectorpage .sector6-mainpagebox .sector6-left{
+    width: 50%;
+    min-height: 55vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.sectorpage .sector6-mainpagebox .sector6-left .sector6-imagearea{
+    width: 550px;
+    min-height: 36vh;
+    position: absolute;
+    right: 5px;
+    top: -5%;
+    margin: auto;
+    background-image: url(adeolu-eletu-unRkg2jH1j0-unsplash.jpg);
+    background-size: cover;
+    background-position-x: center;
+    border-radius: 3px;
+}
+.sector1-mainpagebox:hover h1, .sector2-mainpagebox:hover h1, .sector3-mainpagebox:hover h1, .sector4-mainpagebox:hover h1, .sector5-mainpagebox:hover h1, .sector6-mainpagebox:hover h1{
+    color: rgb(130, 224, 21);
+    transition: .2s;
+}     
